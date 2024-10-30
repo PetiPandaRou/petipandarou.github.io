@@ -2,6 +2,8 @@
 title: Dao Wildpack
 date: 2023-04-18
 lastmod: 2023-07-26
+tags:
+    - dnd
 ---
 
 <img src="images/dnd_dao_wildpack.jpg">

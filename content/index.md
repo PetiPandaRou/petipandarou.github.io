@@ -17,8 +17,8 @@ qui me ressemble. Fan de documentation, j'aime aussi l'idée de construire une
 espace où ranger les connaissances que j'ai sur tels ou tels sujets.
 
 🌈 En ce moment, je réfléchis beaucoup aux sujets de la conception logiciel, de 
-la gestion de produit, du féminisme et des mouvements queer.  
-Et je joue beaucoup à Donjons & Dragons aussi.
+la gestion de #produit, de #gestion_du_temps, de #minimalisme_digital, du féminisme et des mouvements queer.  
+Et je joue beaucoup à des jeux de rôle sur table, comme #dnd.
 
 📖 En espérant que la lecture vous plaise !
 

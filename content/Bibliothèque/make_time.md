@@ -3,10 +3,8 @@ title: Make Time
 subtitle: How to focus on what matters every day
 date: 2023-04-28
 tags:
-    - Gestion du temps
-    - Minimalisme digitale
-    - Organisation
-    - Productivité
+    - gestion_du_temps
+    - minimalisme_digitale
 ---
 
 <img src="images/cover_make_time.jpg" align=right />

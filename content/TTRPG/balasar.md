@@ -1,6 +1,8 @@
 ---
 title: Balasar Vives-Dents Delmeriv
 date: 2022-09-17
+tags:
+    - dnd
 ---
 
 <img src="images/dnd_balasar_delmeriv.jpg">

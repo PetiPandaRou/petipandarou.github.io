@@ -4,10 +4,8 @@ subtitle: Choosing a Focused Life in a Noisy World
 date: 2024-02-12
 lastmod: 2024-05-10
 tags:
-    - Gestion du temps
-    - Minimalisme digitale
-    - Organisation
-    - Productivité
+    - gestion_du_temps
+    - minimalisme_digitale
 ---
 
 <img src="images/cover_digital_minimalism.jpg" align=right />

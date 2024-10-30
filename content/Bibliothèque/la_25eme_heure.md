@@ -3,9 +3,7 @@ title: La 25ème heure
 subtitle: Comment travailler 1h de moins chaque jour
 date: 2021-06-25
 tags:
-    - Gestion du temps
-    - Organisation
-    - Productivité
+    - gestion_du_temps
 ---
 
 <img src="/images/cover_la_25eme_heure.png" align=right />

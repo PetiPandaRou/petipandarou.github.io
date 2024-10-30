@@ -3,9 +3,7 @@ title: Construire une Maturity Table Produit
 date: 2023-03-27
 lastmod: 2023-10-15
 tags:
-    - Produit
-    - Méthodologie
-    - Stratégie
+    - produit
 ---
 
 L'une des tâches centrales en tant que Product Manager est de savoir prioriser
